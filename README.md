@@ -24,13 +24,12 @@ In our benchmark tests, TrackieOS demonstrated outstanding performance. The syst
 
 These tests were conducted on the following hardware:
 -   **Raspberry Pi 3B** (1GB RAM)
--   **Orange Pi 3** (8GB RAM)
+-   **Orange Pi 3** (8GB RAM) (The Current device chosen for raspway)
+-   **Raspberry Pi Zero 2W** (512MB RAM)
 
 ## 💻 Compatibility
 
-TrackieOS is currently compatible with and has been tested on the following devices:
--   ✅ Raspberry Pi 3B
--   ✅ Orange Pi 3 (8GB)
+TrackieOS is currently compatible with a lot of arm embedded systems, inclu:
 
 *The list of supported devices will be expanded in the future.*
 
