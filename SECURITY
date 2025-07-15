@@ -1,6 +1,6 @@
-O kernel e o OS em si estão recebendo atualizações em rust para funções mais modernas de chamadas de funções e assembly para comunicação para o trackieLLM (Ai model).
-C é favorito nesse sistema pela questão da segurança e desempenho. C++ é usado em algumas partes como na biblioteca llama.cpp (Criação de LLM'S).
-Para reportar bugs erros ou sugestões por favor contate phgarcia200@icloud.com
+O kernel e o próprio sistema operacional estão recebendo atualizações em Rust para incluir chamadas de função e funções de assembly mais modernas para comunicação com o trackieLLM (modelo de IA).
+Ele é preferido neste sistema por questões de segurança e desempenho. C++ é usado em algumas áreas, como a biblioteca llama.cpp (criação de LLMs).
+Para relatar bugs, erros ou sugestões, entre em contato com phgarcia200@icloud.com
 
 
 
