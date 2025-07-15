@@ -1,9 +1,9 @@
 O kernel e o próprio sistema operacional estão recebendo atualizações em Rust para incluir chamadas de função e funções de assembly mais modernas para comunicação com o trackieLLM (modelo de IA).
-Ele é preferido neste sistema por questões de segurança e desempenho. C++ é usado em algumas áreas, como a biblioteca llama.cpp (criação de LLMs).
+C é preferido neste sistema por questões de segurança e desempenho. C++ é usado em algumas áreas, como a biblioteca llama.cpp (criação de LLMs).
 Para relatar bugs, erros ou sugestões, entre em contato com phgarcia200@icloud.com
 
 
 
 The kernel and OS itself are receiving updates in Rust to include more modern function calls and assembly functions for communication with the trackieLLM (AI model).
-It is favored in this system for security and performance. C++ is used in some areas, such as the llama.cpp library (creating LLMs).
+C It is favored in this system for security and performance. C++ is used in some areas, such as the llama.cpp library (creating LLMs).
 To report bugs, errors, or suggestions, please contact phgarcia200@icloud.com
