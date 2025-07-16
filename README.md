@@ -20,7 +20,7 @@ Its main goal is to provide a near-zero overhead environment, ensuring that maxi
 
 ## 🚀 Performance
 
-In our benchmark tests, TrackieOS demonstrated outstanding performance. The system's RAM consumption remained stable within a **40-70 MB** range.
+In our benchmark tests, TrackieOS demonstrated outstanding performance. The system's RAM consumption remained stable within a **30-50 MB** range.
 
 These tests were conducted on the following hardware:
 -   **Raspberry Pi 3B** (1GB RAM)
