@@ -4,11 +4,12 @@
 
 [![Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)]()
-[![Status](.credits.txt)]()
+[![Créditos](https://img.shields.io/badge/Créditos-Confira-brightgreen.svg)](.CREDITS.txt)
 
 TrackieOS é um sistema operacional minimalista e um kernel altamente otimizado, projetado para servir como o ambiente de execução principal para o **TrackieLLM** em plataformas embarcadas como o RaspWay.
 
 Seu principal objetivo é fornecer um ambiente com sobrecarga próxima de zero, garantindo que o máximo de recursos de hardware esteja disponível para a aplicação principal.
+
 
 ---
 
