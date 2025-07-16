@@ -1,4 +1,15 @@
-	This is at least a partial credits-file of people that have
+Desenvolvido por Pedro henrique garcia, 2025.
+Construido sobre Kernel linux com integrações de bibliotecas gnu.
+Baseado no Kernel Linux desenvolvido por Linus Torvalds, confira mais sobre o Kernel linux no git https://github.com/torvalds/linux e nos créditos abaixos>
+
+
+
+
+
+
+
+
+This is at least a partial credits-file of people that have
 	contributed to the Linux project.  It is sorted by name and
 	formatted to allow easy grepping and beautification by
 	scripts.  The fields are: name (N), email (E), web-address
