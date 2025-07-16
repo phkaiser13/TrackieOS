@@ -1,38 +1,37 @@
 # 🚀 TrackieOS
 
-**An Ultralight Kernel & OS for Embedded Systems.**
+**Um Kernel e SO Ultraleve para Sistemas Embarcados.**
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+[![Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)]()
+[![Status](.credits.txt)]()
 
-TrackieOS is a minimalist operating system and a highly optimized kernel designed to serve as the core execution environment for the **TrackieLLM** on embedded platforms like RaspWay.
+TrackieOS é um sistema operacional minimalista e um kernel altamente otimizado, projetado para servir como o ambiente de execução principal para o **TrackieLLM** em plataformas embarcadas como o RaspWay.
 
-Its main goal is to provide a near-zero overhead environment, ensuring that maximum hardware resources are available for the main application.
+Seu principal objetivo é fornecer um ambiente com sobrecarga próxima de zero, garantindo que o máximo de recursos de hardware esteja disponível para a aplicação principal.
 
 ---
 
-## ✨ Key Features
+## ✨ Principais Características
 
--   **Optimized Kernel:** Built from the ground up for maximum performance with minimal resource usage.
--   **Extremely Lightweight:** Features a remarkably low memory footprint, making it ideal for hardware-constrained systems.
--   **Integrated APIs:** Includes native APIs to securely and efficiently manage updates and perform version checks for the Trackie ecosystem.
--   **Single-Purpose Focus:** The entire OS is streamlined to serve a primary application, eliminating unnecessary background processes and services.
+- **Kernel Otimizado:** Construído do zero para máximo desempenho com uso mínimo de recursos.
+- **Extremamente Leve:** Possui um consumo de memória notavelmente baixo, tornando-o ideal para sistemas com restrições de hardware.
+- **APIs Integradas:** Inclui APIs nativas para gerenciar atualizações e realizar verificações de versão para o ecossistema Trackie de forma segura e eficiente.
+- **Foco de Propósito Único:** Todo o SO é otimizado para servir a uma aplicação principal, eliminando processos e serviços desnecessários em segundo plano.
 
-## 🚀 Performance
+## 🚀 Desempenho
 
-In our benchmark tests, TrackieOS demonstrated outstanding performance. The system's RAM consumption remained stable within a **30-50 MB** range.
+Em nossos testes de benchmark, o TrackieOS demonstrou um desempenho excepcional. O consumo de RAM do sistema permaneceu estável na faixa de **30-50 MB**.
 
-These tests were conducted on the following hardware:
--   **Raspberry Pi 3B** (1GB RAM)
--   **Orange Pi 3** (8GB RAM) (The Current device chosen for raspway)
--   **Raspberry Pi Zero 2W** (512MB RAM)
+Esses testes foram realizados no seguinte hardware:
+- **Raspberry Pi 3B** (1GB de RAM)
+- **Orange Pi 3** (8GB de RAM) (O dispositivo atual escolhido para o raspway)
+- **Raspberry Pi Zero 2W** (512MB de RAM)
 
+## 🤝 Contribuição
 
+Contribuições são bem-vindas! Se você gostaria de ajudar a melhorar o TrackieOS, por favor, abra uma issue para discutir sua ideia ou envie um pull request.
 
-## 🤝 Contributing
+## 📄 Licença
 
-Contributions are welcome! If you'd like to help improve TrackieOS, please open an issue to discuss your idea or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
