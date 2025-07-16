@@ -36,3 +36,10 @@ Contribuições são bem-vindas! Se você gostaria de ajudar a melhorar o Tracki
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## CRÉDITOS:
+
+Desenvolvido por Pedro henrique garcia, 2025.
+Construido sobre Kernel linux com integrações de bibliotecas gnu.
+Baseado no Kernel Linux desenvolvido por Linus Torvalds, confira mais sobre o Kernel linux no git https://github.com/torvalds/linux e nos créditos >
+[![Créditos](https://img.shields.io/badge/Créditos-Confira-brightgreen.svg)](CREDITS.txt)
