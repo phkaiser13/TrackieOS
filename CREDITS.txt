@@ -1,6 +1,6 @@
 Desenvolvido por Pedro henrique garcia, 2025.
 Construido sobre Kernel linux com integrações de bibliotecas gnu.
-Baseado no Kernel Linux desenvolvido por Linus Torvalds, confira mais sobre o Kernel linux no git https://github.com/torvalds/linux e nos créditos abaixos>
+Baseado no Kernel Linux desenvolvido por Linus Torvalds e mantido pela linux fundation, confira mais sobre o Kernel linux no git https://github.com/torvalds/linux e nos créditos abaixos>
 
 
 
