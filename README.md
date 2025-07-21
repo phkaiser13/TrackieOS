@@ -41,5 +41,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Desenvolvido por Pedro henrique garcia, 2025.
 Construido sobre Kernel linux com integrações de bibliotecas gnu.
+Inspirado no Arch Linux & Raspberry pi OS lite
 Baseado no Kernel Linux desenvolvido por Linus Torvalds, confira mais sobre o Kernel linux no git https://github.com/torvalds/linux e nos créditos >
 [![Créditos](https://img.shields.io/badge/Créditos-Confira-brightgreen.svg)](CREDITS.txt)
